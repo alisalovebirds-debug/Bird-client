@@ -1,0 +1,15 @@
+Bird-Client/
+├── .github/
+│   └── workflows/
+│       └── build.yml
+├── src/
+│   └── main/
+│       ├── java/
+│       │   └── com/birdclient/client/BirdClient.java
+│       └── resources/
+│           └── fabric.mod.json
+├── build.gradle
+├── gradle.properties
+├── settings.gradle
+├── README.md
+└── PROJECT_STRUCTURE.txt
